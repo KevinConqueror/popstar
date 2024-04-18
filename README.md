@@ -1,4 +1,4 @@
-It's a simple game for the course,**Programming(A)(C)** in Wuhan University.  
+It's a simple game for the course,**Programming(A)(C)** in School of Cyber Science and Engineering,Wuhan University.  
 
 This game is mainly created by C++.  
 
